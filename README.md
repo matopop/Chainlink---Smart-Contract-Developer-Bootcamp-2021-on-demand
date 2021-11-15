@@ -1,5 +1,7 @@
 # [Chainlink Smart Contract Developer Bootcamp 2021](https://chain.link/bootcamp/bootcamp-2021-on-demand)
 
+*Dans le cas où les slides/exercices ne seraient plus hébergés/les liens ne fonctionnent plus, rendez-vous dans le dossier Ressources.
+
 # **Jour 1**
 ### [Vidéo](https://www.youtube.com/watch?v=sYaONqU--YI)
 ### [Slides](https://drive.google.com/file/d/1RvQshEpxlyiI9mEbowCtkqYgwGMgMA1o/view)
