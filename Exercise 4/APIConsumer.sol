@@ -12,7 +12,7 @@ Attendre quelques temps que le contrat les reçoive..
 
 La en l'occurence, c'est : 243645541789940060000000
 Pour avoir la valeur normale, on fait valeur / 10^18.
-= 243645.541789940060000000 soit le volume des dernières 24 heures.
+= 243645.541789940060000000 soit le volume des dernières 24 heures sur la paires ETH/USD
 
 */
 
