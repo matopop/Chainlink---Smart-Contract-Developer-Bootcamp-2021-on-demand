@@ -16,7 +16,7 @@ async function main() {
     console.log('Total supply: ', (await deployedContract.totalSupply()).toString());
 
     await deployedContract.transfer(deployer.address, 70000) //On se transfère 70k tokens soit 70% du total supply, tel un bon shitcoin
-
+    //C'est bel et bien 'deployer.address' pour obtenir l'adresse du déployeur et non 'deployer'
     
   }
  
